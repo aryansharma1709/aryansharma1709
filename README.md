@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **aryansharmag29@gmail.com**
 
-- ⚡ Fun fact **I think i am roast comedian**
+- ⚡ Fun fact **I have ability to roast myself**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
