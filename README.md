@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/aryan5120" target="blank"><img src="https://img.shields.io/twitter/follow/aryan5120?logo=twitter&style=for-the-badge" alt="aryan5120" /></a> </p>
 
-- 🔭 I’m currently working on **Machine learning projects**
+- 🔭 I’m currently working on **Web Development projects**
 
-- 👯 I’m looking to collaborate on **Machine learning projects**
+- 👯 I’m looking to collaborate on **Machine learning  and Web Development projects**
 
 - 📫 How to reach me **aryansharmag29@gmail.com**
 
